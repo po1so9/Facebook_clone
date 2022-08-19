@@ -5,8 +5,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-##General information
-
+## General information
 This simple project is completely based on HTML and CSS only.
 It is a clone of Facebook login page.
 
